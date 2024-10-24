@@ -6,6 +6,8 @@
 🛠️ Skills: Python, Machine Learning, Data Analysis, Data Visualization, Data Transformation, Statistical Analysis.
 📈 Strengths: Quick learner, creative problem solver, and passionate about continuous growth.
 🌱 Currently Learning: Advanced machine learning, deployment of models, and big data technologies.
+
+
 💻 Technologies & Tools
 Programming: Python
 Libraries: pandas, NumPy, scikit-learn, Matplotlib, Seaborn
@@ -13,6 +15,8 @@ Data: Data Cleaning, Data Transformation, Data Visualization
 Machine Learning: Supervised and Unsupervised Learning
 Tools: Jupyter, MS Excel, Power BI
 Soft Skills: Analytical Thinking, Business Analysis, Communication
+
+
 🌟 Projects & Contributions
 Project 1: Data analysis of customer flying patterns and clustering frequent flyers (East-West Airlines dataset).
 Project 2: Logistic Regression Model Deployment using Streamlit.
