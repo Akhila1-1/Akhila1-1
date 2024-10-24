@@ -19,8 +19,11 @@ Soft Skills: Analytical Thinking, Business Analysis, Communication
 
 🌟 Projects & Contributions
 Project 1: Data analysis of customer flying patterns and clustering frequent flyers (East-West Airlines dataset).
+
 Project 2: Logistic Regression Model Deployment using Streamlit.
+
 Project 3: Outlier Detection in various datasets and exploratory data analysis.
+
 Feel free to explore my repositories to see how I approach data problems and continuously improve my technical skills.
 
 📫 Contact Me
